@@ -1,4 +1,5 @@
 # DNS-Server-in-pyhton
+![image](https://github.com/user-attachments/assets/4a0241ba-3bce-4f2e-a6ff-e168abc92db9)
 
 Exploring the intricacies of DNS (Domain Name System) through the development of a DNS server 
 and client using Python and UDP protocol has provided me with a comprehensive insight into 
